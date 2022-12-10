@@ -1,0 +1,35 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      margin-right: 0px;
+      margin-left: 0px;
+      
+    }
+}
+@media only screen and (max-width: 600px) {
+    #image-tag {
+      margin-left: -195px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-device-width: 1200px) {
+    .bannerImages {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-device-width: 768px) {
+    .bannerImages {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-device-width: 1600px) {
+    .bannerImages {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 40px;
+    }
+}
