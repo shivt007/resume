@@ -107,9 +107,11 @@ h1,h2,h3,h4,h5,h6,p{
 
 
 .saumyaimg{
-  margin-top: 45px;
-  margin-left: -100px;
-  right: -360px;
+  
+  margin-top: 0px;
+  margin-left: -300px;
+  right: -460px;
+  
   
 }
 
@@ -138,8 +140,8 @@ h1,h2,h3,h4,h5,h6,p{
   border: 2px solid rgb(0, 0, 0);
 } 
 .btn-white{
-  background-color: #ffffff;
-  border:2px solid #ffffff;
+  background-color: white;
+  border:2px solid #000000;
 }
 .btn-blue{
   border: 2.4px solid #ffffff;
